@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957779434702",
+    "firebase_url": "https://notifyme-1ea61.firebaseio.com",
+    "project_id": "notifyme-1ea61",
+    "storage_bucket": "notifyme-1ea61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957779434702:android:12c3faeb154ebc08fd849f",
+        "android_client_info": {
+          "package_name": "com.notifyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957779434702-qnegd4dqjritchbkcf52f5qhdpj4c33l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV3txd1-3i2tmDiOfjrr0fOKv0lZc8_3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957779434702-qnegd4dqjritchbkcf52f5qhdpj4c33l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
