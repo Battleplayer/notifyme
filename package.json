@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-native-community/datetimepicker": "^2.2.1",
     "dayjs": "^1.8.20",
+    "firebase": "^7.10.0",
     "jetifier": "^1.6.5",
     "react": "16.9.0",
     "react-native": "0.61.5",
